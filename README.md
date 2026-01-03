@@ -101,3 +101,13 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+## 🌟 About Me
+
+Hi there! I'm **Mateus Sibila Romano**, a Data Analyst currently deepening my knowledge in Data Engineering. I enjoy working with data pipelines, SQL, and analytics projects, focusing on transforming raw data into clean, reliable, and well-structured datasets.  
+
+Let’s stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateussibilaromano/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateussibila)
+
