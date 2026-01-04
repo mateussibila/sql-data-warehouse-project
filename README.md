@@ -72,8 +72,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
-
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
@@ -93,6 +91,8 @@ data-warehouse-project/
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
 │
+├── scripts_data_analytics/             # SQL scripts for data analytics
+│
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
@@ -104,7 +104,7 @@ data-warehouse-project/
 
 ## 🌟 About Me
 
-Hi there! I'm **Mateus Sibila Romano**, a Data Analyst currently deepening my knowledge in Data Engineering. I enjoy working with data pipelines, SQL, and analytics projects, focusing on transforming raw data into clean, reliable, and well-structured datasets.  
+Hi there! I'm **Mateus Sibila**, a Data Analyst with hands-on experience in Data Engineering. I work with data pipelines, SQL, and analytics projects, transforming raw data into clean, reliable, and well-structured datasets that drive insights and support decision-making.  
 
 Let’s stay in touch! Feel free to connect with me on the following platforms:
 
